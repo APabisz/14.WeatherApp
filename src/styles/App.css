@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,300;1,400&display=swap");
+
+.App {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  padding: 20px;
+  background: linear-gradient(#00000044, #00000044),
+    url("../assets/clouds_1280.jpg");
+  background-size: cover;
+  background-position: center;
+  background-color: #00000055;
+  font-family: "Montserrat", Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.App .wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.App .title {
+  color: #1a486f;
+  padding: 10px;
+  margin-bottom: 10px;
+}

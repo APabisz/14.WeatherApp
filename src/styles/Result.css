@@ -1,0 +1,46 @@
+.info {
+  padding: 30px;
+  margin: 10px 0;
+  border-radius: 10px;
+  /* width: fit-content; */
+  width: 100%;
+  max-width: 800px;
+  color: white;
+  background-color: #000000aa;
+}
+
+.info .city {
+  display: flex;
+  align-items: center;
+  padding: 0px 30px 10px 10px;
+  margin-bottom: 10px;
+  font-size: 1.4em;
+  font-weight: 400;
+  color: white;
+}
+.info .img {
+  max-width: 50px;
+  max-height: 50px;
+  margin-right: 0.4em;
+}
+.info span {
+  text-transform: capitalize;
+}
+
+.info .city span {
+  margin-left: 0.3em;
+}
+
+.info h4 {
+  margin-left: 10px;
+  padding: 10px 0;
+  color: white;
+  font-weight: 400;
+}
+
+@media (max-width: 640px) {
+  .info {
+    margin: 10px 0;
+    width: 100%;
+  }
+}
