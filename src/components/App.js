@@ -17,7 +17,7 @@ function App() {
   useEffect(() => {
     if (inputValue === "") return
 
-    const url = `http://api.openweathermap.org/data/2.5/weather?q=${inputValue}&appid=${APIKey}&units=metric`
+    const url = `https://api.openweathermap.org/data/2.5/weather?q=${inputValue}&appid=${APIKey}&units=metric`
 
     fetch(url)
       .then((res) => {
