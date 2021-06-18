@@ -5,7 +5,6 @@ const Result = ({ value, error, weather }) => {
   const city = value
   let content = null
   let errorBox = null
-  console.log(weather)
   const setUTCTime = (time) => {
     let hour = formatTime(time.getUTCHours())
     let minutes = formatTime(time.getUTCMinutes())
@@ -32,7 +31,7 @@ const Result = ({ value, error, weather }) => {
     const wind = weather.wind.speed
     const pressure = weather.main.pressure
 
-    const img = `http://openweathermap.org/img/w/${weather.weather[0].icon}.png`
+    const img = `https://openweathermap.org/img/w/${weather.weather[0].icon}.png`
 
     content = (
       <div className='info'>
