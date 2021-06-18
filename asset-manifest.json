@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/APmyportfolio/14.WeatherApp/static/css/main.2a083281.chunk.css",
+    "main.js": "/APmyportfolio/14.WeatherApp/static/js/main.acd94227.chunk.js",
+    "main.js.map": "/APmyportfolio/14.WeatherApp/static/js/main.acd94227.chunk.js.map",
+    "runtime-main.js": "/APmyportfolio/14.WeatherApp/static/js/runtime-main.e5fd98a7.js",
+    "runtime-main.js.map": "/APmyportfolio/14.WeatherApp/static/js/runtime-main.e5fd98a7.js.map",
+    "static/js/2.68a9b866.chunk.js": "/APmyportfolio/14.WeatherApp/static/js/2.68a9b866.chunk.js",
+    "static/js/2.68a9b866.chunk.js.map": "/APmyportfolio/14.WeatherApp/static/js/2.68a9b866.chunk.js.map",
+    "index.html": "/APmyportfolio/14.WeatherApp/index.html",
+    "static/css/main.2a083281.chunk.css.map": "/APmyportfolio/14.WeatherApp/static/css/main.2a083281.chunk.css.map",
+    "static/js/2.68a9b866.chunk.js.LICENSE.txt": "/APmyportfolio/14.WeatherApp/static/js/2.68a9b866.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/APmyportfolio/14.WeatherApp/static/media/clouds_1280.4930c5b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5fd98a7.js",
+    "static/js/2.68a9b866.chunk.js",
+    "static/css/main.2a083281.chunk.css",
+    "static/js/main.acd94227.chunk.js"
+  ]
+}
